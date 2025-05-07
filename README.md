@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Udaykiran Pawar – Azure Cloud Engineer
 
-<!--
-**udaykiranpawar/udaykiranpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm passionate about building scalable, secure cloud infrastructure on Microsoft Azure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+
+- ☁️ Azure Services: App Services, AKS, Azure Functions, VMs, Blob Storage
+- 🛠️ Terraform, ARM Templates
+- 🔁 GitHub Actions, Azure DevOps Pipelines
+- 🐳 Docker, Kubernetes (AKS)
+- 💻 Bash, PowerShell
+- 📊 Azure Monitor, Log Analytics
+
+---
+
+## 📂 Projects
+
+### 1️⃣ CI/CD Pipeline: GitHub Actions + Terraform + Azure Web App  
+Deploy infrastructure and containerized app using GitHub Actions and Terraform.  
+[🔗 View Project](https://github.com/udaykiranpawar/project-repo)
+
+### 2️⃣ AKS Cluster Deployment with Helm  
+Automated deployment of Kubernetes workloads on AKS using Helm and Terraform.  
+[🔗 View Project](https://github.com/udaykiranpawar/aks-terraform-deployment)
+
+---
+
+## 📜 Certifications
+
+- ✅ AZ-900: Azure Fundamentals (In progress)
+
+
+---
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn] (www.linkedin.com/in/udaykiranpawar)
+- 📧 udaypawar954@gmail.com
