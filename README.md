@@ -36,5 +36,8 @@ Automated deployment of Kubernetes workloads on AKS using Helm and Terraform.
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn] www.linkedin.com/in/udaykiranpawar
-- 📧 Email - udaypawar954@gmail.com
+📧 udaypawar954@gmail.com  
+📞 +91-9014894404  
+🔗 [LinkedIn](https://www.linkedin.com/in/udaykiranpawar)  
+💻 [GitHub](https://github.com/udaykiranpawar)
+
