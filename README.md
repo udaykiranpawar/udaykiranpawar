@@ -21,9 +21,6 @@
 This project automates the creation of a simple `hello.txt` file on my local system using Terraform’s `local_file` provider. While it’s a small output, the purpose is to understand **how Terraform works**, from writing `.tf` files to executing `terraform apply`. 
 [🔗 View Project](https://github.com/udaykiranpawar/terraform-local-file)
 
-### 2️⃣ AKS Cluster Deployment with Helm  
-Automated deployment of Kubernetes workloads on AKS using Helm and Terraform.  
-[🔗 View Project](https://github.com/udaykiranpawar/aks-terraform-deployment)
 
 ---
 
