@@ -17,9 +17,9 @@
 
 ## 📂 Projects
 
-### 1️⃣ CI/CD Pipeline: GitHub Actions + Terraform + Azure Web App  
-Deploy infrastructure and containerized app using GitHub Actions and Terraform.  
-[🔗 View Project](https://github.com/udaykiranpawar/project-repo)
+### 1️⃣ Infrastructure as Code: Terraform Local File Project”
+This project automates the creation of a simple `hello.txt` file on my local system using Terraform’s `local_file` provider. While it’s a small output, the purpose is to understand **how Terraform works**, from writing `.tf` files to executing `terraform apply`. 
+[🔗 View Project](https://github.com/udaykiranpawar/terraform-local-file)
 
 ### 2️⃣ AKS Cluster Deployment with Helm  
 Automated deployment of Kubernetes workloads on AKS using Helm and Terraform.  
